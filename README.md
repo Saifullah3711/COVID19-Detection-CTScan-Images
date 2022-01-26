@@ -17,3 +17,5 @@ Run it on GPU especially on Google Colab to train the model fast and get better 
 5: Load the images, click on the predict button to show the prediction
 
 
+![Covidinfectedimg](https://user-images.githubusercontent.com/86683758/151152766-57d707c7-6641-43e7-8e30-7f4d491cb33d.PNG)
+![Not Infected With Covid19](https://user-images.githubusercontent.com/86683758/151152787-c9683549-f865-49af-8a86-5d5be1e6e7f8.PNG)
